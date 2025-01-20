@@ -34,24 +34,18 @@ The application consists of the following pages:
 To run this project locally, ensure that you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed. Follow these steps to set up the project:  
 
 1. Clone the repository:  
-   bash  
-   git clone <repository_url>  
+   ```bash  
+   git clone <repository_url>
+   ```
 2.Navigate to the project directory and install the required dependencies:
-   bash
+   ```bash
  npm install
+ ```
 3.Start the development server
-   bash
+  ```bash
    npm run dev
+```
 4.Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
-
-
-## Features
-
-#### Required
-1. User input validation
-2. Timer
-3. Question navigation through pagination and question navigation component with status of questions (answered, visited, not visited)
-4. Report generation and answers comparision
 
 #### Bonus
 1. Responsive design for all devices tablet mobile laptop etc
