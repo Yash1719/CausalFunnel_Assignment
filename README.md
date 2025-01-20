@@ -51,4 +51,3 @@ To run this project locally, ensure that you have [Node.js](https://nodejs.org/)
 1. Responsive design for all devices tablet mobile laptop etc
 2. Report generation on Email using EmailJS
 3. Better state management using context API
-i have copied this change something in it the language part not any tech stack or stuff 
